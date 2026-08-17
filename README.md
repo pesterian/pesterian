@@ -1,5 +1,1 @@
-https://pesterian.github.io/portfolio/
-
-![Ziyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=pesterian&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pesterian&layout=compact&theme=radical)
+cool website visit pls https://pesterian.github.io/portfolio/
