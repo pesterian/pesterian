@@ -1,2 +1,1 @@
 # https://pesterian.github.io/portfolio/
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=pesterian&langs_count=5&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=pesterian&langs_count=5&theme=transparent)
